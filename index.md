@@ -1,5 +1,6 @@
 ### 1.0	 Demonstrate Source Control Capability			
 [1.1](#1.1)	 Complies with branch policies as to defined by project (e.g. prevent commits directly to master branch.) 
+![Drag Racing](images/1-1.png)
 
 [1.2](#1.2)	 Merges are carried out through PRs with the correct level of code review and continuous integration. 
 
