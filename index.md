@@ -1,5 +1,5 @@
 ### 1.0	 Demonstrate Source Control Capability			
-1.1 Complies with branch policies as to defined by project (e.g. prevent commits directly to master branch.) 
+1.1 [Complies with branch policies as to defined by project (e.g. prevent commits directly to master branch.)](1-1.md) 
 
 #### cli1
 ![Creating a new branch](images/1-1.png)
