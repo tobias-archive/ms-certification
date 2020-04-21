@@ -29,14 +29,12 @@
 3.2 Demonstrated awareness of the deployment strategy/target, whether this is a standard VM, Container or Serverless infrastructure 
 	
 ### 4.0	  Actively participate in the code review process as part of the code check-in process 
-4.1 Demonstrate that all builds produced out of project repositories include appropriate linters, run unit tests, and complete without errors nor warnings.
+4.1 [Demonstrate that all builds produced out of project repositories include appropriate linters, run unit tests, and complete without errors nor warnings.](4-1.md)
 
-[Screenshot](#PR)
+4.2 [Demonstrate creation of work item for bug and linking to the "pull" request that introduced it, once the error has been diagnosed. This aids learning on application capabilities and complexities](4-2.md)
 
-4.2 Demonstrate creation of work item for bug and linking to the "pull" request that introduced it, once the error has been diagnosed. This aids learning on application capabilities and complexities
+4.3 [Team lead should jointly review code updates with the Software Engineer to provide feedback on coding style and documentation](4-3.md)
 
-4.3 Team lead should jointly review code updates with the Software Engineer to provide feedback on coding style and documentation 
-[Screenshot](#PR)
 
 ### 5.0	 Integrates observability (tracing and monitoring) into project deliverables 
 5.1 Service/component request can be traced across systems to give a complete view of app behavior (Ex. Distributed tracing pattern) 
