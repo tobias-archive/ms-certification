@@ -1,18 +1,9 @@
 ### 1.0	 Demonstrate Source Control Capability			
 1.1 [Complies with branch policies as to defined by project (e.g. prevent commits directly to master branch.)](1-1.md) 
 
-#### cli1
-![Creating a new branch](images/1-1.png)
+1.2	[Merges are carried out through PRs with the correct level of code review and continuous integration.](1-2.md)
 
-1.2	Merges are carried out through PRs with the correct level of code review and continuous integration.
-
-##### PR
-<img src="images/1-2.png" width="250px">
-
-
-1.3 Clear commit history with consistent messaging on changes that is easy to follow ( why and what ) 
-
-[Screenshot](#PR)
+1.3 [Clear commit history with consistent messaging on changes that is easy to follow ( why and what ) ](1-3.md)
 
 1.4 No Secrets are published in the repo
 
