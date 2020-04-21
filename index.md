@@ -39,9 +39,9 @@
 ### 5.0	 Integrates observability (tracing and monitoring) into project deliverables 
 5.1 [Service/component request can be traced across systems to give a complete view of app behavior (Ex. Distributed tracing pattern)](5-1.md)
 
-5.2 [Implements appropriate health checks and application metrics/(alerts if applicable) that help to understand service behavior and troubleshoot problems.  Can be monitored/aggregated by appropriate ops system at scale.](5.2.md)
+5.2 [Implements appropriate health checks and application metrics/(alerts if applicable) that help to understand service behavior and troubleshoot problems.  Can be monitored/aggregated by appropriate ops system at scale.](5-2.md)
 
- 5.3 [Project deliverables related to monitoring/tracing/observability generally align to best practices for deployment target and integrate into deployment environment.](5.3.md)
+ 5.3 [Project deliverables related to monitoring/tracing/observability generally align to best practices for deployment target and integrate into deployment environment.](5-3.md)
 	
 ### 6.0	 Demonstrates strong coding capabilities 
-6.1 Software engineer can deliver high quality code into the project with limited bugs and no blockers (P0/1) issues.
+6.1 [Software engineer can deliver high quality code into the project with limited bugs and no blockers (P0/1) issues.](6-1.md)
