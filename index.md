@@ -24,9 +24,9 @@
 2.4 [For complex apps that support multi-threaded patterns or state management, clear provisions are made to fully test](2-4.md)
 	
 ### 3.0	 Demonstrates creation or update of Continuous Integration and Delivery (CI/CD ) in Dev Crew Project 
-3.1 Demonstrated how to build or update CI/CD pipelines.  E.g. Azure DevOps to build, test and deploy updates to an application 
+3.1 [Demonstrated how to build or update CI/CD pipelines.  E.g. Azure DevOps to build, test and deploy updates to an application](3-1.md)
 
-3.2 Demonstrated awareness of the deployment strategy/target, whether this is a standard VM, Container or Serverless infrastructure 
+3.2 [Demonstrated awareness of the deployment strategy/target, whether this is a standard VM, Container or Serverless infrastructure](3-2.md)
 	
 ### 4.0	  Actively participate in the code review process as part of the code check-in process 
 4.1 [Demonstrate that all builds produced out of project repositories include appropriate linters, run unit tests, and complete without errors nor warnings.](4-1.md)
@@ -37,11 +37,11 @@
 
 
 ### 5.0	 Integrates observability (tracing and monitoring) into project deliverables 
-5.1 Service/component request can be traced across systems to give a complete view of app behavior (Ex. Distributed tracing pattern) 
+5.1 [Service/component request can be traced across systems to give a complete view of app behavior (Ex. Distributed tracing pattern)](5-1.md)
 
-5.2 Implements appropriate health checks and application metrics/(alerts if applicable) that help to understand service behavior and troubleshoot problems.  Can be monitored/aggregated by appropriate ops system at scale. 
+5.2 [Implements appropriate health checks and application metrics/(alerts if applicable) that help to understand service behavior and troubleshoot problems.  Can be monitored/aggregated by appropriate ops system at scale.](5.2.md)
 
- 5.3 Project deliverables related to monitoring/tracing/observability generally align to best practices for deployment target and integrate into deployment environment. 
+ 5.3 [Project deliverables related to monitoring/tracing/observability generally align to best practices for deployment target and integrate into deployment environment.](5.3.md)
 	
 ### 6.0	 Demonstrates strong coding capabilities 
 6.1 Software engineer can deliver high quality code into the project with limited bugs and no blockers (P0/1) issues.
